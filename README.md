@@ -1,3 +1,5 @@
+# Not a real project yet. Nothing to see here. Please go away. :)
+
 # ZencoderJS
 
 A JavaScript library for interacting with the [Zencoder transcoding API](http://zencoder.com).
